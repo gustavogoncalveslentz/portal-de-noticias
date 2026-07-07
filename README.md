@@ -6,13 +6,6 @@ Um portal de notícias moderno focado no ecossistema de tecnologia, desenvolvido
 
 ---
 
-## 📸 Demonstração do Projeto
-
-*(Tire um print da tela do seu projeto, salve na pasta de imagens e substitua o caminho abaixo para exibir a foto no GitHub)*
-![Interface do TechNews](assets/images/project-image-portal.png)
-
----
-
 ## 🎯 Objetivo e Escopo
 
 Este projeto foi construído com o objetivo focado no domínio de técnicas estruturais de front-end. A proposta consiste em replicar a interface de um portal de notícias com temas como Inteligência Artificial, Realidade Virtual, Blockchain e Robótica.
